@@ -3,6 +3,7 @@
 **Creative technologist · Human–AI interaction · Toronto**
 
 I’m interested in what happens when making something with a computer feels more like a conversation. My starting points are visual art, digital products, and playful interaction. I’m drawn to interfaces where a small design choice, such as when a system responds or how it signals uncertainty, changes what someone feels able to do.
+https://yuwensu.com/
 
 ## Questions I’m exploring
 
